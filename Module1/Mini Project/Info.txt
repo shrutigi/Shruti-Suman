@@ -1,0 +1,17 @@
+My name is Shruti Suman and I'm making a mini project on Report Card Generation. 
+In this miniproject at first I'm getting the number of students in a class and then take input of all the details of the students.
+Details include
+a. Name 
+b. Semester
+c. IA 1 marks
+d. IA 2 marks
+e. End Term marks
+Then I'm assigning roll number to students as per the alphabetical order. Roll number is starting from 1.
+I'm taking here 5 subjects 
+Then I'm calculating the final percentage of a student as 30% of IA and 70% of End Term.
+As per the final percentage I'm assigning rank to every student.
+Then I'm taking input of roll number of a student to generate the result of that particular student. 
+Rank and marks and other details are also displayed in the output.
+I'll be uploading directly on my github folder the screenshots of
+a. the input I'm giving as student details
+b. the output I'm getting as the scorecard of a selected student.
